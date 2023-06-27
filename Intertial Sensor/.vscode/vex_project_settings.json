@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.4.2",
+		"json": 1
+	},
+	"project": {
+		"name": "IntertialSensor",
+		"description": "",
+		"creationDate": "6/1/2023, 10:47:33 AM",
+		"platform": "V5",
+		"language": "cpp",
+		"slot": 8,
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	}
+}
