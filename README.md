@@ -26,7 +26,6 @@ video before going through the source code on your own.
 10. Inertial Sensor
 11. GPS Sensor
 
-Example program folders not included in the ordering still have a README description of the recommended background knowledge to
-go through the folder.
+
 
 
