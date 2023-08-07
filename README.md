@@ -1,31 +1,9 @@
-# Preface
+# Begin Here
 
-The example programs build off of each other, so the order that you view them is important.
-Although, some programs build off previous ones more so than others, it is recommended that you follow
-the order or have the necessary background knowledge to skip around.
+The repository holds a multitude of example programs in VEXcode. These programs are geared towards introducing the functionality of motors and sensors, as well as the specific implementation of sensors and motors into different drivetrains and subsystems. Many projects are heavily commented, meaning there is a lot of description in the program so that anyone can read through it. Some files are not heavily commented, and in that case, you should check out the associated video with that project on my YouTube channel, where I go through the entire program. Also, the files that are heavily commented have associated YouTube videos that you should check out if you don't feel like reading or want further insight.
 
-Each example program folder has a README.md which provides a description of what concepts are introduced/shown 
-in the source code as well as what background knowledge, if any, is recommended to go through the example program.
+Click [HERE]() to begin installing the VEXcode extension to VScode and beginning a new project.
 
-There are youtube videos that go along with these files. It is highly recommended that you check out the corresponding
-video before going through the source code on your own.
+Click [HERE]() to learn how to download an example project from this repository so you can use it in VScode.
 
-
-# Recommended Order 
-
-
-1. Motor Basics
-2. Motor Sensing
-3. Motor Control
-4. 6 Motor Tank Drive
-5. X-Drive
-6. Bumper & LimitSwitch (Interchangeable with Pneumatics)
-7. Pneumatics (Interchangeable with Bumper & LimitSwitch)
-8. Optical Sensor
-9. Vision Sensor
-10. Inertial Sensor
-11. GPS Sensor
-
-
-
-
+Click [HERE]() to go to my VEXcode playlist on my YouTube channel. 
